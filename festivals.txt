@@ -1,0 +1,39 @@
+January | 1 | New Year's Day | Wednesday
+January | 14 | Makar Sankranti | Tuesday
+January | 14-16 | Pongal | Tuesday-Thursday
+January | 26 | Republic Day | Sunday
+February | 27 | Maha Shivaratri | Thursday
+March | 5 | Holi | Wednesday
+March | 28 | Good Friday | Friday
+March | 29 | Ram Navami | Saturday
+April | 6 | Easter Sunday | Sunday
+April | 13 | Baisakhi | Sunday
+April | 14 | Dr. Ambedkar Jayanti | Monday
+April | 14 | Tamil New Year | Monday
+April | 30 | May Day | Wednesday
+May | 1 | Labour Day | Thursday
+May | 8 | Eid ul-Fitr | Thursday
+May | 11 | Mother's Day | Sunday
+June | 18 | Ramzan Eid | Thursday
+July | 5 | Guru Purnima | Saturday
+July | 28 | Eid-ul-Adha | Monday
+August | 15 | Independence Day | Friday
+August | 19 | Raksha Bandhan | Tuesday
+August | 28 | Janmashtami | Thursday
+August | 29 | Onam | Friday
+September | 5 | Ganesh Chaturthi | Friday
+September | 5 | Teacher's Day | Friday
+September | 30 | Mahatma Gandhi Jayanti | Tuesday
+October | 3 | Dussehra | Friday
+October | 5-13 | Navratri | Sunday-Monday
+October | 10 | Maha Ashtami | Friday
+October | 11 | Mahanavami | Saturday
+October | 23 | Diwali | Thursday
+October | 24 | Govardhan Puja | Friday
+October | 26 | Bhai Dooj | Sunday
+November | 11 | Karthigai Deepam | Tuesday
+November | 14 | Children's Day | Friday
+November | 25 | Eid-e-Milad-un-Nabi | Tuesday
+November | 27 | Thanksgiving Day | Thursday
+December | 25 | Christmas Day | Thursday
+December | 31 | New Year's Eve | Wednesday
