@@ -1,39 +1,72 @@
 January | 1 | New Year's Day | Wednesday
-January | 14 | Makar Sankranti | Tuesday
-January | 14-16 | Pongal | Tuesday-Thursday
+January | 6 | Guru Gobind Singh Jayanti | Monday
+January | 13 | Lohri | Monday
+January | 14 | Makar Sankranti / Pongal | Tuesday
+January | 14 | Amavasya | Tuesday
+January | 25 | Purnima | Saturday
 January | 26 | Republic Day | Sunday
-February | 27 | Maha Shivaratri | Thursday
-March | 5 | Holi | Wednesday
-March | 28 | Good Friday | Friday
-March | 29 | Ram Navami | Saturday
-April | 6 | Easter Sunday | Sunday
-April | 13 | Baisakhi | Sunday
-April | 14 | Dr. Ambedkar Jayanti | Monday
+
+February | 2 | Vasant Panchami | Sunday
+February | 12 | Amavasya | Wednesday
+February | 26 | Maha Shivaratri | Wednesday
+February | 26 | Purnima | Wednesday
+February | 28 | National Science Day | Friday
+
+March | 8 | International Women's Day | Saturday
+March | 13 | Holika Dahan | Thursday
+March | 14 | Holi | Friday
+March | 14 | Amavasya | Friday
+March | 29 | Hindi New Year | Saturday
+March | 30 | Ram Navami | Sunday
+March | 30 | Purnima | Sunday
+
+April | 12 | Amavasya | Saturday
 April | 14 | Tamil New Year | Monday
-April | 30 | May Day | Wednesday
-May | 1 | Labour Day | Thursday
-May | 8 | Eid ul-Fitr | Thursday
-May | 11 | Mother's Day | Sunday
-June | 18 | Ramzan Eid | Thursday
-July | 5 | Guru Purnima | Saturday
-July | 28 | Eid-ul-Adha | Monday
+April | 14 | Baisakhi / Ambedkar Jayanti | Monday
+April | 20 | Ramadan Begins | Sunday
+April | 28 | Purnima | Monday
+
+May | 11 | Amavasya | Sunday
+May | 30 | Akshaya Tritiya | Friday
+May | 27 | Purnima | Tuesday
+
+June | 9 | Amavasya | Monday
+June | 5 | Ganga Dussehra | Thursday
+June | 25 | Purnima | Wednesday
+
+July | 8 | Amavasya | Tuesday
+July | 10 | Guru Purnima | Thursday
+July | 24 | Purnima | Thursday
+
+August | 7 | Amavasya | Thursday
+August | 9 | Raksha Bandhan | Saturday
 August | 15 | Independence Day | Friday
-August | 19 | Raksha Bandhan | Tuesday
-August | 28 | Janmashtami | Thursday
-August | 29 | Onam | Friday
-September | 5 | Ganesh Chaturthi | Friday
-September | 5 | Teacher's Day | Friday
-September | 30 | Mahatma Gandhi Jayanti | Tuesday
-October | 3 | Dussehra | Friday
-October | 5-13 | Navratri | Sunday-Monday
-October | 10 | Maha Ashtami | Friday
-October | 11 | Mahanavami | Saturday
-October | 23 | Diwali | Thursday
-October | 24 | Govardhan Puja | Friday
-October | 26 | Bhai Dooj | Sunday
-November | 11 | Karthigai Deepam | Tuesday
+August | 22 | Krishna Janmashtami | Friday
+August | 22 | Purnima | Friday
+
+September | 5 | Amavasya | Friday
+September | 7 | Ganesh Chaturthi | Sunday
+September | 20 | Purnima | Saturday
+
+October | 2 | Gandhi Jayanti | Thursday
+October | 2 | Dussehra (Vijayadashami) | Thursday
+October | 6 | Amavasya | Monday
+October | 10 | Karva Chauth | Friday
+October | 18 | Dhanteras | Saturday
+October | 20 | Narak Chaturdashi | Monday
+October | 21 | Diwali | Tuesday
+October | 21 | Amavasya | Tuesday
+October | 22 | Govardhan Puja | Wednesday
+October | 23 | Bhai Dooj | Thursday
+October | 28 | Chhath Puja | Tuesday
+October | 28 | Purnima | Tuesday
+
+November | 5 | Amavasya | Wednesday
 November | 14 | Children's Day | Friday
-November | 25 | Eid-e-Milad-un-Nabi | Tuesday
-November | 27 | Thanksgiving Day | Thursday
-December | 25 | Christmas Day | Thursday
-December | 31 | New Year's Eve | Wednesday
+November | 15 | Birsa Munda Jayanti | Saturday
+November | 26 | Constitution Day (Samvidhan Divas) | Wednesday
+November | 26 | Purnima | Wednesday
+
+December | 5 | Amavasya | Friday
+December | 25 | Christmas | Thursday
+December | 25 | Purnima | Thursday
