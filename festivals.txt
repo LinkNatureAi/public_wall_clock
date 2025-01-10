@@ -1,72 +1,77 @@
-January | 1 | New Year's Day | Wednesday
-January | 6 | Guru Gobind Singh Jayanti | Monday
-January | 13 | Lohri | Monday
-January | 14 | Makar Sankranti / Pongal | Tuesday
-January | 14 | Amavasya | Tuesday
-January | 25 | Purnima | Saturday
-January | 26 | Republic Day | Sunday
+January | 1 | New Year's Day (International) | Wednesday
+January | 13 | Makar Sankranti/Pongal, Purnima | Monday
+January | 14 | Lohri (Punjabi) | Tuesday
+January | 15 | Bhogali Bihu (Assamese) | Wednesday
+January | 26 | Republic Day (National), Constitution Day | Sunday
+January | 29 | Amavasya | Wednesday
 
-February | 2 | Vasant Panchami | Sunday
-February | 12 | Amavasya | Wednesday
-February | 26 | Maha Shivaratri | Wednesday
-February | 26 | Purnima | Wednesday
-February | 28 | National Science Day | Friday
+February | 12 | Valentine's Day (International), Purnima | Wednesday
+February | 13 | Holika Dahan (Hindu) | Thursday
+February | 14 | Holi (Hindu) | Friday
+February | 27 | Amavasya | Thursday
 
-March | 8 | International Women's Day | Saturday
-March | 13 | Holika Dahan | Thursday
-March | 14 | Holi | Friday
-March | 14 | Amavasya | Friday
-March | 29 | Hindi New Year | Saturday
-March | 30 | Ram Navami | Sunday
-March | 30 | Purnima | Sunday
+March | 8 | International Women's Day (International) | Saturday
+March | 13 | Purnima, Holika Dahan (Hindu) | Thursday
+March | 14 | Purnima, Holi (Hindu) | Friday
+March | 20 | Parsi New Year (Parsi) | Thursday
+March | 23 | World Meteorological Day | Sunday
+March | 29 | Amavasya | Saturday
+March | 30 | Ugadi (Hindu), Gudi Padwa (Hindu) | Sunday
+March | 31 | Eid-ul-Fitr (Islamic) | Monday
 
-April | 12 | Amavasya | Saturday
-April | 14 | Tamil New Year | Monday
-April | 14 | Baisakhi / Ambedkar Jayanti | Monday
-April | 20 | Ramadan Begins | Sunday
-April | 28 | Purnima | Monday
+April | 6 | Ram Navami (Hindu) | Sunday
+April | 7 | World Health Day | Monday
+April | 10 | Mahavir Jayanti (Jain) | Thursday
+April | 12 | Purnima | Saturday
+April | 13 | Good Friday (Christian) | Sunday
+April | 14 | Easter Sunday (Christian) | Monday
+April | 15 | Easter Monday (Christian) | Tuesday
+April | 22 | Earth Day | Tuesday
+April | 27 | Amavasya | Sunday
 
-May | 11 | Amavasya | Sunday
-May | 30 | Akshaya Tritiya | Friday
-May | 27 | Purnima | Tuesday
+May | 1 | May Day (International) | Thursday
+May | 8 | World Red Cross Day | Thursday
+May | 12 | Mother's Day (International), Purnima | Monday
+May | 17 | International Day Against Homophobia, Transphobia and Biphobia | Saturday
+May | 26 | Amavasya | Monday
+May | 27 | Amavasya | Tuesday
 
-June | 9 | Amavasya | Monday
-June | 5 | Ganga Dussehra | Thursday
-June | 25 | Purnima | Wednesday
+June | 5 | World Environment Day | Thursday
+June | 7 | Eid-ul-Adha (Islamic) | Saturday
+June | 10 | Purnima | Tuesday
+June | 11 | Purnima | Wednesday
+June | 25 | Amavasya | Wednesday
+June | 26 | International Day Against Drug Abuse and Illicit Trafficking | Thursday
 
-July | 8 | Amavasya | Tuesday
-July | 10 | Guru Purnima | Thursday
-July | 24 | Purnima | Thursday
+July | 4 | Independence Day (USA) (International) | Friday
+July | 10 | Purnima | Thursday
+July | 11 | World Population Day | Friday
+July | 24 | Amavasya | Thursday
 
-August | 7 | Amavasya | Thursday
-August | 9 | Raksha Bandhan | Saturday
-August | 15 | Independence Day | Friday
-August | 22 | Krishna Janmashtami | Friday
-August | 22 | Purnima | Friday
+August | 9 | Raksha Bandhan (Hindu), Purnima | Saturday
+August | 15 | Independence Day (India) (National), International Youth Day | Friday
+August | 22 | Amavasya | Saturday
+August | 27 | Ganesh Chaturthi (Hindu) | Wednesday
 
-September | 5 | Amavasya | Friday
-September | 7 | Ganesh Chaturthi | Sunday
-September | 20 | Purnima | Saturday
+September | 5 | Teachers' Day | Friday
+September | 7 | Purnima | Sunday
+September | 20 | Amavasya | Sunday
+September | 22 | Navratri (Hindu) | Monday
 
-October | 2 | Gandhi Jayanti | Thursday
-October | 2 | Dussehra (Vijayadashami) | Thursday
-October | 6 | Amavasya | Monday
-October | 10 | Karva Chauth | Friday
-October | 18 | Dhanteras | Saturday
-October | 20 | Narak Chaturdashi | Monday
-October | 21 | Diwali | Tuesday
-October | 21 | Amavasya | Tuesday
-October | 22 | Govardhan Puja | Wednesday
-October | 23 | Bhai Dooj | Thursday
-October | 28 | Chhath Puja | Tuesday
-October | 28 | Purnima | Tuesday
+October | 2 | Dussehra (Hindu), Gandhi Jayanti (National) | Thursday
+October | 4 | World Animal Day | Saturday
+October | 7 | Purnima | Tuesday
+October | 16 | World Food Day | Thursday
+October | 19 | Amavasya | Monday
+October | 20 | Diwali (Hindu) | Monday
+October | 31 | Halloween (International) | Friday
 
-November | 5 | Amavasya | Wednesday
-November | 14 | Children's Day | Friday
-November | 15 | Birsa Munda Jayanti | Saturday
-November | 26 | Constitution Day (Samvidhan Divas) | Wednesday
-November | 26 | Purnima | Wednesday
+November | 5 | Guru Nanak Jayanti (Sikh), Purnima | Wednesday
+November | 14 | Children's Day (International), World Diabetes Day | Friday
+November | 19 | Amavasya | Wednesday
 
-December | 5 | Amavasya | Friday
-December | 25 | Christmas | Thursday
-December | 25 | Purnima | Thursday
+December | 1 | World AIDS Day | Monday
+December | 4 | Purnima | Thursday
+December | 10 | Human Rights Day | Wednesday
+December | 19 | Amavasya | Friday
+December | 25 | Christmas Day (Christian) | Thursday
